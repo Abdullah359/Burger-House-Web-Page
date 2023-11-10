@@ -1,1 +1,51 @@
+@font-face {
+    font-family: superb;
+    src: url(../fonts/SuperbaBold\ Roman.ttf);
+}
+
+body {
+    background-image: url(../images/background.png);
+}
+
+.row_bg{
+    color: #ffc045;
+}
+
+.logoimg{
+    margin-top: 20px;
+    margin-left: 3%;
+}
+
+.lft {
+    float: left;
+    margin-top: 8%;
+    margin-left: 3%;
+}
+
+.lft p {
+    margin: 0%;
+    padding: 8px;
+    border: 3.5px dashed black;
+    width: 413px;
+    font-family: "superb";
+}
+
+.h111 {
+    font-size: 130px;
+    color: #42200b;
+    margin: 0%;
+    font-family: "superb";
+}
+
+.h222 {
+    font-size: 70px;
+    color: #42200b;
+    margin: 0%;
+    font-family: "superb";
+}
+
+.rght {
+    float: right;
+    margin-top: 0px;
+}
 
